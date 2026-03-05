@@ -1,6 +1,6 @@
 <!-- filename: README.md -->
 
-<h1 align="center">Hi, I'm Benedict C. Korie</h1>
+<h1 align="center">Hi, I'm Benedict</h1>
 <p align="center">
   Senior Software Engineer • Mobile (Flutter/Dart) & Backend (Node.js) • Abuja, Nigeria
 </p>
