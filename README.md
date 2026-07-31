@@ -17,54 +17,41 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=BennyX8">
-    <img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=BennyX8" />
-  </a>
-  <a href="https://github.com/BennyX8?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/BennyX8?style=social" />
-  </a>
-</p>
+---
 
 ## About
-I build production-grade mobile apps and scalable backends. I’ve led engineering teams and delivered fintech, social, and media products end‑to‑end—from architecture and Database design to CI/CD and TDD.
 
-- **Current:** Senior Software Engineer, team lead roles across mobile (Flutter) and backend (Node.js)
-- **Location:** Abuja, Nigeria
-- **Focus areas:** Mobile SDKs, payments, media pipelines, admin/reporting consoles
-- **Career arc:** Embedded systems → desktop → mobile & backend
+I’m a **Senior Software Engineer focused on Flutter mobile and Node.js backends**.  
+I build and lead production systems end‑to‑end: architecture, database design, testing, and CI/CD.
 
-## Tech Stack
-- **Languages:** Dart, Java, JavaScript, Python, SQL
-- **Mobile:** Flutter/Dart, Android (Kotlin/Java)
-- **Backend:** Node.js, Express/Fastify
-- **Databases:** MySQL, RDBMS design
-- **Practices:** **TDD**, **CI/CD**, UX, Graphic Design
-- **Tools:** VS Code, Git/GitHub, Linux
+- 6+ years building apps for iOS & Android
+- Fintech, social and community products in production
+- Strong on clean architecture, TDD, and developer experience
+- Currently deepening skills in applied AI for mobile and backend
 
-## Highlights & Roles
-- **RENMISS TECH LTD (2023–present):** Senior Software Engineer • Mobile dev • Team Lead  
-- **NETPACK SYSTEMS LTD (2023):** Software Engineer • Mobile dev  
-- **ECOZEEN TECH LTD (2022):** Senior Software Engineer • Mobile dev • Team Lead  
-- **WOWCATHOLIC LTD (2020–2023):** Senior Software Engineer • Team Lead • Mobile & Desktop  
-- **AVVAWOX MEDIA LTD (2018–2020):** Software Engineer • Mobile & Desktop  
-- **ROSE MEDIA & COMM. LTD (2016–2018):** Software Engineer • Desktop  
-- **IMTPLUS LTD (2014–2015):** Embedded Systems Engineer • RTOS with Arduino
+---
 
-## Selected Projects
-- **SINNTS (Social-Fintech, 2025):** Social platform with wallet-linked banking for earning and transactions  
-- **AptFuel (Social-Fintech, 2023):** Fast payments for purchasing petroleum products at partner stations  
-- **SureThrift (Fintech, 2023):** Cooperatives-focused app for loans, transfers, deposits  
-- **Toqitos (E‑commerce & Travel, 2023):** P2P delivery connecting buyers with travelers  
-- **HarvestPad (2022):** Harvest/thanksgiving management for Catholic churches (mobile + desktop admin)  
-- **WowCatholic (2021):** Social media app for Catholics and Christians  
-- **ChoirPal (2020):** Choir practice app with part‑learning and scores  
-- **Electronic PCB Design:** Circuit board design & development
+## Tech
 
-## Education
-- **B.Eng. Computer Engineering (2009–2014):** Federal University of Technology, Minna
+- **Mobile:** Flutter/Dart, Android (Kotlin/Java)  
+- **Backend:** Node.js (Express/Fastify), REST APIs  
+- **Data:** MySQL and relational schema design  
+- **Practices:** TDD, CI/CD, performance, UX  
+- **Tools:** Git/GitHub, VS Code, Linux
+
+---
+
+## Selected Work
+
+- **SINNTS:** Social + wallet-linked banking for earning and transactions  
+- **AptFuel:** Fast payments for fuel purchases at partner stations  
+- **SureThrift:** Digital cooperatives app for savings, loans, transfers  
+- **Toqitos:** P2P delivery connecting buyers with travelers  
+
+---
 
 ## Stats
+
 <p>
   <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=BennyX8&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" />
   <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BennyX8&layout=compact&langs_count=10&theme=transparent" />
@@ -73,7 +60,9 @@ I build production-grade mobile apps and scalable backends. I’ve led engineeri
   <img alt="Streak" height="180" src="https://streak-stats.demolab.com?user=BennyX8&theme=transparent&hide_border=false" />
 </p>
 
+---
+
 ## Contact
+
 - **Email:** benedictkorie@gmail.com  
-- **LinkedIn:** linkedin.com/in/benedict-korie  
-- **GitHub:** github.com/BennyX8
+- **LinkedIn:** linkedin.com/in/benedict-korie
