@@ -7,13 +7,16 @@
 
 <p align="center">
   <a href="mailto:benedictkorie@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-benedictkorie%40gmail.com-1f6feb?style=for-the-badge&logo=gmail" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-benedictkorie%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/benedict-korie">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benedict%20Korie-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Benedict%20Korie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/BennyX8">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-BennyX8-000000?style=for-the-badge&logo=github" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-BennyX8-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://benedictkorie.com">
+    <img alt="Website" src="https://img.shields.io/badge/Website-benedictkorie.com-059669?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -24,10 +27,9 @@
 I’m a **Senior Software Engineer focused on Flutter mobile and Node.js backends**.  
 I build and lead production systems end‑to‑end: architecture, database design, testing, and CI/CD.
 
-- 6+ years building apps for iOS & Android
-- Fintech, social and community products in production
-- Strong on clean architecture, TDD, and developer experience
-- Currently deepening skills in applied AI for mobile and backend
+- 6+ years building apps for iOS & Android  
+- Fintech, social and community products in production  
+- Strong on clean architecture, TDD, and developer experience  
 
 ---
 
@@ -43,7 +45,7 @@ I build and lead production systems end‑to‑end: architecture, database desig
 
 ## Selected Work
 
-- **SINNTS:** Social + wallet-linked banking for earning and transactions  
+- **SINNTS:** Social + wallet‑linked banking for earning and transactions  
 - **AptFuel:** Fast payments for fuel purchases at partner stations  
 - **SureThrift:** Digital cooperatives app for savings, loans, transfers  
 - **Toqitos:** P2P delivery connecting buyers with travelers  
@@ -64,5 +66,7 @@ I build and lead production systems end‑to‑end: architecture, database desig
 
 ## Contact
 
+- **Website:** benedictkorie.com  
 - **Email:** benedictkorie@gmail.com  
-- **LinkedIn:** linkedin.com/in/benedict-korie
+- **LinkedIn:** linkedin.com/in/benedict-korie/  
+- **GitHub:** github.com/BennyX8
